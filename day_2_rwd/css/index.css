@@ -130,12 +130,20 @@ b .nav-item,
 .nav li:first-child .nav-item {
   border-left: none;
 }
-/* Fotogalerie */
+/* 
+
+--- Fotogalerie --- 
+
+*/
 .photo a,
 .photo img {
   display: block;
 }
-/* Paticka */
+/* 
+
+--- Paticka ---
+
+*/
 .foot {
   clear: both;
   padding: 3em 30px;
@@ -182,7 +190,6 @@ body {
   padding-right: 30px;
   width: 540px;
   /* 600px */
-
 }
 .side {
   float: right;
@@ -190,5 +197,4 @@ body {
   padding-right: 30px;
   width: 340px;
   /* 400px */
-
 }
